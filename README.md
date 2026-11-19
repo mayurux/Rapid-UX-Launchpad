@@ -1,5 +1,5 @@
 # Rapid UX Launchpad
-*From brief to first design direction — fast, structured, and ready to refine.*
+*From brief to first design direction: fast, structured, and ready to refine.*
 
 This pack contains five independent, reusable skill prompts designed to help designers quickly understand a challenge, break it into manageable decisions, and prepare a design direction when time is limited. The output is a strong first pass that can be refined later.
 
