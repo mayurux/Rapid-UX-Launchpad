@@ -48,11 +48,11 @@ flowchart TD
 
 | Skill | Focus | Main output |
 |---|---|---|
-| **01 — Brief Analysis & UX Research** | Users, goals, current workflow, pain points, evidence and assumptions | Approved research foundation |
-| **02 — Product, Business & Problem Strategy** | Business objectives, user–business alignment, root causes and opportunities | Approved problem definition and product direction |
-| **03 — Requirements, Prioritization & Scope** | Functional requirements, MVP, MoSCoW priorities, constraints and edge cases | Approved requirements and design-ready brief |
-| **04 — Screen Preparation & Experience Architecture** | Screen purpose, information architecture, content, interactions, states and design direction | Approved screen specification and initial design prompt |
-| **05 — Design Prompt Specialist & UX Reviewer** | Prompt audit, design-system fidelity, interaction coverage and prompt refinement | Approved, self-contained design-generation prompt |
+| [**01 — Brief Analysis & UX Research**](01_Brief_Analysis_and_UX_Research.md) | Users, goals, current workflow, pain points, evidence and assumptions | Approved research foundation |
+| [**02 — Product, Business & Problem Strategy**](02_Product_Business_and_Problem_Strategy.md) | Business objectives, user–business alignment, root causes and opportunities | Approved problem definition and product direction |
+| [**03 — Requirements, Prioritization & Scope**](03_Requirements_Prioritization_and_Scope.md) | Functional requirements, MVP, MoSCoW priorities, constraints and edge cases | Approved requirements and design-ready brief |
+| [**04 — Screen Preparation & Experience Architecture**](04_Screen_Design_Preparation_and_Experience_Architecture.md) | Screen purpose, information architecture, content, interactions, states and design direction | Approved screen specification and initial design prompt |
+| [**05 — Design Prompt Specialist & UX Reviewer**](05_Design_Generation_Prompt_Specialist_and_UX_Design_Reviewer.md) | Prompt audit, design-system fidelity, interaction coverage and prompt refinement | Approved, self-contained design-generation prompt |
 
 **Modular by design:** each skill is a separate Markdown file. The recommended end-to-end workflow is sequential because later skills depend on approved decisions from earlier stages.
 
